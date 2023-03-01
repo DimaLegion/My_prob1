@@ -1,0 +1,7 @@
+34
+hello
+78
+3
+world
+apple
+12
